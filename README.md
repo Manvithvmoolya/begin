@@ -1,2 +1,2 @@
 # begin
-this is my first repo created by me.
+FIRST GIT REPO
